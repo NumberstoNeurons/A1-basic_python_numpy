@@ -3,7 +3,7 @@
 ## Instructions
 ### 1. Open in Google Colab
 In your browser, go to:
-    colab.research.google.com
+    https://colab.research.google.com
     
 File → Open Notebook → GitHub tab → paste your repo URL → select numpy_worksheet.ipynb
 
