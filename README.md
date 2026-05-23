@@ -13,4 +13,4 @@ Fill in answers and run cells normally in Colab.
 ### 3. Push back to GitHub
 In Colab: File → Save a copy in GitHub → select their assignment repo → save.
 
-### **Note**: When saving back to GitHub from Colab, make sure they select their own assignment repo (not the original template), otherwise it won't reflect in your Classroom dashboard.
+### **Note**: When saving back to GitHub from Colab, make sure you select your own assignment repo (not the original template), otherwise it won't reflect in the Classroom dashboard.
