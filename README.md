@@ -2,7 +2,7 @@
 
 ## Question 1
 
-Open the notebook using the link below:
+Open the notebook by clicking on the button below:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iK-UEYAqUaj53Xkl-mg0uwxMlas_0R4G?usp=sharing )
 
