@@ -11,6 +11,6 @@ File → Open Notebook → GitHub tab → paste your repo URL → select numpy_w
 Fill in answers and run cells normally in Colab.
 
 ### 3. Push back to GitHub
-In Colab: File → Save a copy in GitHub → select their assignment repo → save.
+In Colab, click the "Save in GitHub to keep changes" button at the top of the screen → confirm → done.
 
-### **Note**: When saving back to GitHub from Colab, make sure you select your own assignment repo (not the original template), otherwise it won't reflect in the Classroom dashboard.
+
